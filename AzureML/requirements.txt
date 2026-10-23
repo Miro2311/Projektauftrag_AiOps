@@ -1,0 +1,6 @@
+requests==2.34.2
+python-dotenv
+jupyter
+# Optional: nur für Zelle "Variante B" (Azure ML SDK)
+azure-ai-ml
+azure-identity
